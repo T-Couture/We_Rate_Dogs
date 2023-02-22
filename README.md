@@ -13,7 +13,7 @@ and trustworthy analyses and visualizations.
 3. Analyze and Visualize Data
 
 ## REQUIREMENTS
-* Python
+* Jupyter / Python
 * pandas
 * requests
 * json
